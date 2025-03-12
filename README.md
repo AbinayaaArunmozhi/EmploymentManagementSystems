@@ -18,3 +18,8 @@ This is a simple **Employee Management System** using Java and Object-Oriented P
    ```sh
    git clone https://github.com/YourGitHubUsername/EmployeeManagementSystem.git
    cd EmployeeManagementSystem
+2. **Compile the code**:
+   javac Employee.java Main.java
+3.**Run the Program**
+   java Main
+ 
